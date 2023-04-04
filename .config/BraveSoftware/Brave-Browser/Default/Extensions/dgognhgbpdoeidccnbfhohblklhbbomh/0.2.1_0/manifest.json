@@ -1,0 +1,27 @@
+{
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "content_scripts": [ {
+      "js": [ "data/inject.js" ],
+      "matches": [ "*://www.youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Forces YouTube to open the player in the theater mode (full-width mode) even if you are logged out",
+   "homepage_url": "https://add0n.com/youtube-tools.html?from=theater",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "256": "data/icons/256.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "512": "data/icons/512.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyx9UNZZl9hJZMkGXx/YjcEpiO1qul/cqwa+0QJ7VTsDLLUx0FIFPdSvzykMq30QfV5QVkp/D41MVZAJhcEG5xFY9S8ZR0AZ6Qz0xU+8uNwzMQ1LOrEWESlftwdSELsO1+3kdzHlXTFdmD1+IowZpE5J8lgejijYNUxQ2OfYeWc3P5u6AaKpITNc+cLPZcQROzrM/STlTEsoNxbQHGFEGSPpDaSiGISisVqQLxsmwm8XMAHvg6dwv+CB01ZNw4iMpO3/CvOPT4QAJFNwF7AACh9nkOgVG5LfQMmbEEz6rIsIlmJgV4nwdyq4uG2XorGmCNGqB2Zxjefn7ZGwKUr8SBwIDAQAB",
+   "manifest_version": 3,
+   "name": "Theater Mode for YouTube™ (large player view)",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.1"
+}

@@ -1,0 +1,14 @@
+2023/04/04-23:34:46.151 e6b Recovering log #220
+2023/04/04-23:34:46.152 e6b Level-0 table #222: started
+2023/04/04-23:34:46.155 e6b Level-0 table #222: 370 bytes OK
+2023/04/04-23:34:46.162 e6b Delete type=0 #220
+2023/04/04-23:34:46.162 e6b Delete type=3 #218
+2023/04/04-23:34:46.163 e6d Compacting 4@0 + 1@1 files
+2023/04/04-23:34:46.167 e6d Generated table #224@0: 5 keys, 522 bytes
+2023/04/04-23:34:46.167 e6d Compacted 4@0 + 1@1 files => 522 bytes
+2023/04/04-23:34:46.170 e6d compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/04/04-23:34:46.171 e6d Delete type=2 #213
+2023/04/04-23:34:46.171 e6d Delete type=2 #222
+2023/04/04-23:34:46.171 e6d Delete type=2 #219
+2023/04/04-23:34:46.171 e6d Delete type=2 #211
+2023/04/04-23:34:46.171 e6d Delete type=2 #216

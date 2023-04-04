@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/naitoriba/Downloads/UFtdNeIUkfrbPSZgWmLEhw4VPyBfwY8ct7tqBvQiW5w.jpg" added="2023-03-31T14:09:38.166102Z" modified="2023-03-31T14:09:38.166130Z" visited="2023-03-31T14:09:38.166109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-03-31T14:09:38.166118Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/naitoriba/Downloads/213.pdf" added="2023-04-01T12:58:43.629754Z" modified="2023-04-01T12:58:43.629804Z" visited="2023-04-01T12:58:43.629762Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-04-01T12:58:43.629792Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/naitoriba/Downloads/NMUS_seminar_Luka_Beric_ispravljen.pdf" added="2023-04-01T13:19:37.997329Z" modified="2023-04-01T13:19:37.997353Z" visited="2023-04-01T13:19:37.997335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-04-01T13:19:37.997344Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/naitoriba/Downloads/fF.png" added="2023-04-04T00:30:36.419358Z" modified="2023-04-04T00:30:36.419387Z" visited="2023-04-04T00:30:36.419365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-04-04T00:30:36.419375Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/naitoriba/Downloads/Predavanje%2007.%2003.%202023%20(prvi%20dio)" added="2023-04-04T00:44:05.100352Z" modified="2023-04-04T00:44:05.100383Z" visited="2023-04-04T00:44:05.100360Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-04-04T00:44:05.100371Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/naitoriba/Downloads/eduroam-linux-UoZFoMEaNA.py" added="2023-04-04T14:43:46.123559Z" modified="2023-04-04T14:43:46.123588Z" visited="2023-04-04T14:43:46.123566Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2023-04-04T14:43:46.123576Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

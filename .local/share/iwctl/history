@@ -1,0 +1,24 @@
+ap list
+station wlan0 show
+wcs list
+wsc list
+station wlan0 scan
+station list
+known-networks list
+station list
+debug wlan0 get-networks
+ap wlan0 get-networks
+clear
+exit
+device list
+station wlan0 scan
+station wlan0 get-networks
+station wlan0 connect RIGETA12
+exit
+station wlan0 list
+help
+device list
+station wlan0 scan
+station wlan0 get-networks
+station wlan0 connect eduroam
+exit

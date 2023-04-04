@@ -1,0 +1,14 @@
+2023/04/04-23:34:51.258 e7e Recovering log #225
+2023/04/04-23:34:51.258 e7e Level-0 table #227: started
+2023/04/04-23:34:51.262 e7e Level-0 table #227: 19196 bytes OK
+2023/04/04-23:34:51.270 e7e Delete type=0 #225
+2023/04/04-23:34:51.270 e7e Delete type=3 #223
+2023/04/04-23:34:51.271 e7e Compacting 4@0 + 1@1 files
+2023/04/04-23:34:51.278 e7e Generated table #229@0: 5 keys, 4029 bytes
+2023/04/04-23:34:51.278 e7e Compacted 4@0 + 1@1 files => 4029 bytes
+2023/04/04-23:34:51.288 e7e compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/04/04-23:34:51.289 e7e Delete type=2 #221
+2023/04/04-23:34:51.289 e7e Delete type=2 #224
+2023/04/04-23:34:51.289 e7e Delete type=2 #218
+2023/04/04-23:34:51.289 e7e Delete type=2 #216
+2023/04/04-23:34:51.289 e7e Delete type=2 #227
